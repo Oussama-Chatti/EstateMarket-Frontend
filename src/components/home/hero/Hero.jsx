@@ -22,9 +22,6 @@ const Hero = () => {
               <span>Price Range</span>
               <input type='text' placeholder='Price Range' />
             </div>
-            <div className='box'>
-              <h4>Advance Filter</h4>
-            </div>
             <button className='btn1'>
               <i className='fa fa-search'></i>
             </button>
