@@ -19,6 +19,10 @@ export const nav = [
     text: "contact",
     path: "/contact",
   },
+  {
+    text: "chat",
+    path: "/chat",
+  },
 ]
 export const featured = [
   {
